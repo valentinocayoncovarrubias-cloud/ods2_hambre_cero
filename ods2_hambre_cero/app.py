@@ -257,7 +257,7 @@ if page == "Home":
     # Our team's video is placed at the very bottom of the Home page.
     st.markdown("---")
     st.subheader("Our project video")
-    st.video("https://www.youtube.com/watch?v=xFtQQ0PsWH4")
+    st.video("https://youtu.be/ooaU7QYMz2k?si=pQ6Td87auSiWbEmX")
 
 # ------------------------------------------------------------
 # SDG 2 CONTENT
