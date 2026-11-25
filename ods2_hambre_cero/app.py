@@ -133,7 +133,7 @@ PAGES = [
 ]
 
 with st.sidebar:
-    st.markdown("## 🌾 ZERO HUNGER")
+    st.markdown("## 🌾 FEED THE FUTURE")
     st.markdown("**SDG 2 · 2030 Agenda**")
     st.caption("Knowledge · Sustainability · Action")
     st.divider()
